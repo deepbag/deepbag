@@ -7,9 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently doing Engineering.
 - 🌱 I’m currently learning React/Flutter/PHP.
 - 👯 I’m looking to Part time job as a freelancer.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about learning React/Flutter/PHP/HTML/Bootstrap.
-- 📫 How to reach me: Social Media.
 - ⚡ Fun fact: The usual programmers drink coffee while coding but I sign a song.
 
 ### Follo on Social Media 👋
