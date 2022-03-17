@@ -6,10 +6,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently doing Engineering.
+- 🔭 I’m a Engineer.
 - 🌱 I’m currently learning Quantum Language/Node/Blockchain.
-- 👯 I’m looking to Part time job as a freelancer.
-- 💬 Ask me about learning React/ReactNative/PHP/HTML/CSS/Bootstrap/WordPress.
+- 👯 I’m a WordPress Developer with 2+ Years of experiences and also working on React/Nextjs.
+- 💬 Ask me about learning React/HTML/CSS/Bootstrap/WordPress.
 - ⚡ Fun fact: The usual programmers drink coffee while coding but I coding while listening to the song.
 
 ### Follow on Social Media 👋
