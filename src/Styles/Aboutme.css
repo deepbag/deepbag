@@ -1,0 +1,90 @@
+
+.doblock{
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px 5px 0 0;
+    margin: 15px 10px 0 10px;
+}
+.doblock h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.doinfoblock{
+    display: flex;
+}
+.reactblock{
+    padding: 20px;
+    background: linear-gradient(0deg, rgba(255, 99, 71, 0.06) 1.39%, rgba(250, 209, 97, 0.06) 100%);
+    margin: 10px;
+    border-radius: 5px;
+    border-left: 6px solid #fbb674;
+    width: 50%;
+}
+.reactblock h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+}
+.reactblock p{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.techblock{
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0 10px 15px 10px;
+}
+.techblock h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.techsvgblock img{
+    margin-right: 10px;
+    background: linear-gradient(0deg, rgba(255, 99, 71, 0.06) 1.39%, rgba(250, 209, 97, 0.06) 100%);
+    border: 1px solid rgba(216, 216, 216, 0.349);
+    padding: 15px;
+    height: 120px;
+    width: 120px;
+}
+
+
+
+@media (max-width: 500px) { 
+    .aboutblock{
+        display: block;
+    }
+    .infoblock{
+        padding: 10px;
+    }
+    .imgblock p{
+        text-align: center;
+    }
+    .infoblock h3,p{
+        text-align: center;
+    }
+    .reactblock{
+        width: 100%;
+    }
+    .reactblock p{
+        text-align: left;
+    }
+    .doinfoblock{
+        display: block;
+    }
+    .techblock{
+        padding: 10px;
+    }
+    .techsvgblock img{
+        margin: 5px;
+        width: 80px;
+        height: 80px;
+        padding: 10px;
+    }
+}

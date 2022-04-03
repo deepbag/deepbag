@@ -1,0 +1,36 @@
+
+.notfoundblock{
+    background-color: white;
+    padding: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: block;
+}
+.notfoundblock a{
+    text-decoration: none;
+}
+.notfoundblock h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.notfoundblock hr{
+    color: #00000054;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+.notfounddatablock h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    margin-bottom: 20px;
+    line-height: 32px;
+}
+.notfounddatablock p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    margin: 0 0 20px 22px;
+    text-align: left;
+}

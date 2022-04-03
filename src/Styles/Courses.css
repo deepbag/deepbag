@@ -1,0 +1,89 @@
+.row{
+    display: flex;
+}
+.course_block{
+    background-color: white; 
+    padding: 30px;
+    border-radius: 5px;
+    margin: 15px 10px 15px 10px;
+}
+.course_block h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.course_block hr{
+    color: #00000054;
+    border-radius: 5px;
+    margin-bottom: 40px;
+}
+
+.course_single{
+    border: 2px solid rgba(0, 0, 0, 0.521);
+    border-radius: 1px;
+    margin: 10px 0 25px 0;
+}
+.course_col_one{
+    width: 40%;
+}
+.course_col_one img{
+    width: 400px;
+}
+.course_col_two{
+    width: 60%;
+    align-self: center;
+    padding: 20px 50px 20px 30px;
+}
+.course_col_two h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.course_col_two p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+.course_col_two h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 25px 0 25px 0;
+}
+.course_col_two h4 span{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    margin-bottom: 10px;
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    padding: 5px 10px 5px 10px;
+    border-radius: 7px;
+    margin-left: 8px;
+}
+.pricepoint{
+    text-decoration: line-through;
+    text-decoration-thickness: 2.5px;
+    text-decoration-color: red;
+}
+
+.courses_buttons{
+    display: flex;
+}
+.courses_buttons a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    padding: 5px 15px 5px 15px;
+    border-radius: 7px;
+    margin-right: 10px;
+}
+.courses_buttons a:hover{
+    color: white;
+}

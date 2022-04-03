@@ -1,0 +1,155 @@
+.over_block{
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.096) 0%, rgba(250, 209, 97, 0.084) 97.97%);
+    border-radius: 25px;
+    margin: 15px 10px 0 10px;
+    display: flex;
+    border: 3px solid rgba(0, 0, 0, 0.5);
+}
+.over_imgblock img{
+    border-top-left-radius: 22px;
+    border-bottom-left-radius: 22px;
+    width: 350px;
+    height: 350px;
+}
+.over_infoblock{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.over_infoblock h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 40px;
+}
+.over_infoblock p{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 18px;
+}
+.over_infoblock button{
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+
+.over_thought{
+    background: white;
+    border-radius: 25px;
+    margin: 15px 10px 0 10px;
+    padding: 30px;
+}
+.over_thought p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    color: #212529;
+    font-size: 30px;
+    margin: 0;
+}
+
+.over_wpcourse{
+    background: white;
+    border-radius: 25px;
+    margin: 15px 10px 0 10px;
+    padding: 30px;
+}
+.over_wpcourse h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 25px;
+}
+.over_wpcourse h3 span{
+    color: #f7936e;
+}
+.over_wpcourse p{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 18px;
+}
+.over_wpcourse button{
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+
+.over_products{
+    background: white;
+    border-radius: 25px;
+    margin: 15px 10px 0 10px;
+    padding: 30px;
+}
+.over_products h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 25px;
+}
+.over_products h3 span{
+    color: #f7936e;
+}
+.over_products p{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 18px;
+}
+.over_products button{
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+
+.over_work{
+    background: white;
+    border-radius: 25px;
+    margin: 15px 10px 0 10px;
+    padding: 30px;
+}
+.over_work h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 25px;
+}
+.over_work h3 span{
+    color: #f7936e;
+}
+.over_work p{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 18px;
+}
+.over_work button{
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+.OverLink{
+    text-decoration: none;
+    color: black;
+}
+.OverLink:hover{
+    color: white;
+}
