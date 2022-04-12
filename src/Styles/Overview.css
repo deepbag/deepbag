@@ -39,12 +39,13 @@
     border-radius: 5px;
 }
 
-
+/* ------------------- Thought Section CSS -------------------- */
 .over_thought{
     background: white;
     border-radius: 25px;
     margin: 15px 10px 0 10px;
     padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
 }
 .over_thought p{
     font-family: 'Inter', sans-serif;
@@ -54,11 +55,60 @@
     margin: 0;
 }
 
+/* ------------------- Web Technology Security Section CSS -------------------- */
+.over_secure{
+    background: white;
+    border-radius: 25px;
+    margin: 15px 10px 0 10px;
+    padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+}
+.over_secure h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 25px;
+}
+.over_secure h3 span{
+    color: #f7936e;
+}
+.over_secure p{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 17px;
+}
+.over_secure h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 17px;
+}
+.over_secure ol{
+    margin-bottom: 20px;
+}
+.over_secure ol li{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 16px;
+}
+.over_secure button{
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+/* ------------------- WordPress Course Section CSS -------------------- */
 .over_wpcourse{
     background: white;
     border-radius: 25px;
     margin: 15px 10px 0 10px;
     padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
 }
 .over_wpcourse h3{
     font-family: 'Inter', sans-serif;
@@ -73,7 +123,22 @@
     font-family: 'Inter', sans-serif;
     color: rgba(0, 0, 0, 0.822);
     font-weight: 300;
-    font-size: 18px;
+    font-size: 17px;
+}
+.over_wpcourse h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 17px;
+}
+.over_wpcourse ol{
+    margin-bottom: 20px;
+}
+.over_wpcourse ol li{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 16px;
 }
 .over_wpcourse button{
     background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
@@ -84,12 +149,13 @@
     border-radius: 5px;
 }
 
-
+/* ------------------- Products Section CSS -------------------- */
 .over_products{
     background: white;
     border-radius: 25px;
     margin: 15px 10px 0 10px;
     padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
 }
 .over_products h3{
     font-family: 'Inter', sans-serif;
@@ -104,7 +170,7 @@
     font-family: 'Inter', sans-serif;
     color: rgba(0, 0, 0, 0.822);
     font-weight: 300;
-    font-size: 18px;
+    font-size: 17px;
 }
 .over_products button{
     background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
@@ -115,12 +181,13 @@
     border-radius: 5px;
 }
 
-
+/* ------------------- Work Together Section CSS -------------------- */
 .over_work{
     background: white;
     border-radius: 25px;
     margin: 15px 10px 0 10px;
     padding: 30px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
 }
 .over_work h3{
     font-family: 'Inter', sans-serif;
@@ -135,7 +202,22 @@
     font-family: 'Inter', sans-serif;
     color: rgba(0, 0, 0, 0.822);
     font-weight: 300;
-    font-size: 18px;
+    font-size: 17px;
+}
+.over_work h4{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 17px;
+}
+.over_work ol{
+    margin-bottom: 20px;
+}
+.over_work ol li{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 16px;
 }
 .over_work button{
     background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
@@ -146,10 +228,63 @@
     border-radius: 5px;
 }
 
+/* ------------------- Copyright Section CSS -------------------- */
+.over_copyright{
+    background: white;
+    border-radius: 25px;
+    margin: 15px 10px 0 10px;
+    padding: 30px;
+}
+.over_copyright h3{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    color: #212529;
+    font-size: 25px;
+}
+.over_copyright h3 span{
+    color: #f7936e;
+}
+.over_copyright p{
+    font-family: 'Inter', sans-serif;
+    color: rgba(0, 0, 0, 0.822);
+    font-weight: 300;
+    font-size: 16px;
+}
+
+
+
+
+
 .OverLink{
     text-decoration: none;
     color: black;
 }
 .OverLink:hover{
+    color: white;
+}
+.over_secure a{
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.over_secure a:hover{
+    color: white;
+}
+.over_work a{
+    text-decoration: none;
+    color: black;
+    background: linear-gradient(90deg, rgba(255, 99, 71, 0.6) 0%, #FAD161 100%);
+    border: none;
+    padding: 10px 20px 10px 20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.over_work a:hover{
     color: white;
 }
