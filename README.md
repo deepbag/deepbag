@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a Engineer.
+- 🔭 I’m an Engineer.
 - 👯 I’m a WordPress Developer with 2+ Years of experiences and also working on React/Nextjs and Nodejs and AWS.
 - 💬 Ask me about learning React/HTML/CSS/Bootstrap/WordPress/Node/AWS.
 - ⚡ Fun fact: The usual programmers drink coffee while coding but I coding while listening to the song.
