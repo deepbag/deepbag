@@ -7,8 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m an Engineer.
-- 👯 I’m a WordPress Developer with 2+ Years of experiences and also working on React/Nextjs and Nodejs and AWS.
-- 💬 Ask me about learning React/HTML/CSS/Bootstrap/WordPress/Node/AWS.
+- 👯 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲, 𝗙𝗶𝗴𝗺𝗮, 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲, 𝗔𝗪𝗦, 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗹 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗹 𝗝𝗮𝘃𝗮 & 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 - ⚡ Fun fact: The usual programmers drink coffee while coding but I coding while listening to the song.
 
 ### Skills 
