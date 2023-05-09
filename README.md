@@ -13,5 +13,7 @@ Here are some ideas to get you started:
 ### Skills 
 - HTML, CSS, Bootstarp, SCSS, Material UI, Javascript ( Mostly ), Nodejs, MongoDB, Mysql, Loopback, AWS, Aliaba Cloud, Vercel, Figma, Python, Power BI, Excel, React-Redux, Redux-Toolkit, Redux-Saga, amcharts, Apex Charts, ChartJs, Jupyter
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gulshankumar24102000&label=Profile%20views&color=0e75b6&style=flat" alt="deepbag" /> </p>
+
 ### Follow on Social Media 👋
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/erdeepbag) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepbag/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/er.deepbag/)
