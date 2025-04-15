@@ -1,20 +1,64 @@
-### Hi there 👋
+# Hi there 👋
 
-**deepbag/deepbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. <a href="https://dev.to/deepbag_">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deep Bag's DEV Community Profile" height="30" width="30">
-</a>
+Welcome to my GitHub profile! I'm **Deep Bag**, a passionate and experienced engineer with a keen interest in full-stack development. I love building scalable, user-friendly applications and exploring new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m an Engineer.
-- 👯 𝗥𝗲𝗮𝗰𝘁, 𝗡𝗼𝗱𝗲, 𝗙𝗶𝗴𝗺𝗮, 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲, 𝗔𝗪𝗦, 𝗪𝗼𝗿𝗱𝗣𝗿𝗲𝘀𝘀 𝗹 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 𝗹 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
-- ⚡ Fun fact: The usual programmers drink coffee while coding but I coding while listening to the song.
+🔭 **I'm an Engineer** with expertise in:
 
-### Skills 
-- HTML, CSS, Bootstarp, SCSS, Material UI, Javascript ( Mostly ), Nodejs, MongoDB, Mysql, Loopback, AWS, Aliaba Cloud, Vercel, Figma, Python, Power BI, Excel, React-Redux, Redux-Toolkit, Redux-Saga, amcharts, Apex Charts, ChartJs, Jupyter
+- **Frontend Development:** ReactJs, NextJs, HTML, CSS, Figma, TypeScript
+- **State Management:** Redux, Redux Toolkit
+- **Backend Development:** Node.js, NestJS, Java
+- **Databases:** MongoDB, MySQL, PostgreSQL, TypeORM
+- **Cloud & DevOps:** AWS, Docker, CI/CD pipelines
+- **Data Visualization:** Amcharts 5, D3
+- **Tools & APIs:** Postman, Jira, DBeaver, Git, GitHub Actions
 
-### Follow on Social Media 👋
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deepbag/)
+⚡ **Fun fact:** Most programmers drink coffee while coding, but I code while listening to music 🎶
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepbag&show_icons=true&locale=en&layout=compact" alt="deepbag" /></p>
+---
 
+### NPM Packages Created by Me
+
+#### **@deepbag/react-grid-x**
+- **Technologies:** React, TypeScript
+- Developed and published **@deepbag/react-grid-x**, a customizable and flexible table component for React.
+- Supports pagination, client-side and server-side sorting, dynamic rendering of data, and custom column rendering and styling.
+- Designed for developer ease-of-use, increasing productivity in building complex data tables.
+- Published to npm with ongoing usage and maintenance, demonstrating the ability to deliver production-ready open-source tools.
+
+---
+
+### Technical Skills
+
+- **Languages & Frameworks:** HTML, CSS, ReactJs, Redux, TypeScript, NextJs, Node.js, NestJS, Java
+- **Databases:** MongoDB, MySQL, PostgreSQL, TypeORM
+- **Cloud & DevOps:** AWS, Docker, CI/CD pipelines
+- **Data Visualization:** Amcharts 5, D3
+- **APIs & Tools:** Jira, Postman, DBeaver, Git, GitHub Actions
+- **Data Structures & Algorithms:** Proficient in algorithm design and problem-solving techniques
+
+---
+
+### Soft Skills
+
+- **Multitasking:** Effectively handling multiple tasks and projects simultaneously.
+- **Decision Making:** Analyzing situations to make quick, informed decisions.
+- **Teamwork:** Collaborative and proactive in working with teams to achieve common goals.
+
+---
+
+### Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/deepbag/)
+- Email: deepbag@example.com
+
+---
+
+### Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=deepbag&show_icons=true&locale=en&layout=compact)
+
+---
+
+Feel free to explore my repositories, contribute to my open-source projects, or just say hi! 🙌
