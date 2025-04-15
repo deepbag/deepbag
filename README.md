@@ -40,18 +40,10 @@ Welcome to my GitHub profile! I'm **Deep Bag**, a passionate and experienced eng
 
 ---
 
-### Soft Skills
-
-- **Multitasking:** Effectively handling multiple tasks and projects simultaneously.
-- **Decision Making:** Analyzing situations to make quick, informed decisions.
-- **Teamwork:** Collaborative and proactive in working with teams to achieve common goals.
-
----
-
 ### Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/deepbag/)
-- Email: deepbag@example.com
+- Email: deepbag92@gmail.com
 
 ---
 
